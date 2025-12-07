@@ -24,7 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AI-0o0&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/AI-0o0/AI-0o0/output/snake.svg" alt="Snake animation" />
 
 <!--
 **AI-0o0/AI-0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
