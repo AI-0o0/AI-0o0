@@ -1,41 +1,119 @@
-# 💫 About Me:
-👋 Hi, I’m Abdelrahman<br>👨‍💻 I'm a Data Science Student<br>🤝 I’m looking to collaborate on Projects <br>🌱 I’m currently learning AI/ML
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmaneslam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nja75753@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AI-0o0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AI-0o0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-0o0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ========================================================= -->
+<!--                         BANNER                            -->
+<!-- ========================================================= -->
 
 <!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AI-0o0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK" alt="Abdelrahman Eslam Banner" width="100%">
+</p>
 -->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AI-0o0&limit=5&theme=radical&combine_all_yearly_contributions=true)
+# 👋 Hi, I'm Abdelrahman Eslam
+
+### 🚀 AI Engineer | Computer and Data Science Student
+
+I'm passionate about building AI-powered applications using Machine Learning and Large Language Models. I enjoy developing AI agents, automating workflows, and turning ideas into practical AI solutions.
+
+- 🤖 Building AI Agents & LLM Applications
+- 🌱 Currently learning Agentic AI, MCP, RAG, and AI System Design
+- 💡 Interested in Machine Learning, NLP, and Generative AI
+- 🤝 Open to collaborating on AI and Open Source projects
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AI-0o0&icon=0&color=9)](https://visitcount.itsvg.in)
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmaneslam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelrahman.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nja75753@gmail.com)
+
+
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                      -->
+<!--      Uncomment and replace the links when ready          -->
+<!-- ========================================================= -->
 
 <!--
-**AI-0o0/AI-0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+# 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🤖 **AI Travel Agent** | Multi-agent travel assistant powered by LangChain & MCP | Python • LangChain • MCP |
+| 📚 **RAG Chatbot** | Chatbot using Retrieval-Augmented Generation | Python • LangChain • ChromaDB |
+| 🧠 **Mental Health Analysis** | Machine learning analysis and prediction | Python • Scikit-learn |
+| 📊 **Power BI Dashboard** | Interactive business intelligence dashboard | Power BI • SQL |
+| 🔍 **Coming Soon...** | Your next awesome project | 🚀 |
+
 -->
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 AI Agents
+- 🧠 Large Language Models (LLMs)
+- 🔗 LangChain & MCP
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ AI System Design
+
+---
+
+## 🌍 Languages
+
+- 🇪🇬 Arabic (Native)
+- 🇬🇧 English (Professional Working Proficiency)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=AI-0o0&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true)
+
+![](https://streak-stats.demolab.com?user=AI-0o0&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AI-0o0&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Contribution Graph
+
+[![Abdelrahman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AI-0o0&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+![](https://komarev.com/ghpvc/?username=AI-0o0&style=for-the-badge)
