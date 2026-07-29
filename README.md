@@ -1,119 +1,163 @@
-<!-- ========================================================= -->
-<!--                         BANNER                            -->
-<!-- ========================================================= -->
+<div align="center">
 
-<!--
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" alt="Abdelrahman Eslam Banner" width="100%">
-</p>
--->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Abdelrahman%20Eslam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20and%20Data%20Science%20Student&descSize=18&descAlignY=56)
 
-# 👋 Hi, I'm Abdelrahman Eslam
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+AI+Agents+and+LLM+Applications;Learning+MCP%2C+RAG%2C+and+Agentic+AI;Passionate+about+Generative+AI+Systems)](https://git.io/typing-svg)
 
-### 🚀 AI Engineer | Computer and Data Science Student
+<br>
 
-I'm passionate about building AI-powered applications using Machine Learning and Large Language Models. I enjoy developing AI agents, automating workflows, and turning ideas into practical AI solutions.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelrahman.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmaneslam)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nja75753@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AI-0o0)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Computer and Data Science student** passionate about building intelligent AI applications using **Machine Learning**, **Large Language Models**, and **Agentic AI**.
+
+I enjoy designing AI systems, developing autonomous agents, and turning ideas into practical products. My current focus is on building production-ready AI applications while continuously learning modern AI technologies.
 
 - 🤖 Building AI Agents & LLM Applications
-- 🌱 Currently learning Agentic AI, MCP, RAG, and AI System Design
-- 💡 Interested in Machine Learning, NLP, and Generative AI
-- 🤝 Open to collaborating on AI and Open Source projects
+- 🌱 Learning Agentic AI, MCP, RAG & AI System Design
+- 💡 Interested in Generative AI, NLP & Machine Learning
+- 🤝 Open to AI collaborations and Open Source projects
 
 ---
 
-## 🌐 Connect with Me
+## 💻 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmaneslam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelrahman.is-a.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nja75753@gmail.com)
+<div align="center">
 
+### Core
 
-<!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                      -->
-<!--      Uncomment and replace the links when ready          -->
-<!-- ========================================================= -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<!--
-# 🚀 Featured Projects
+<br>
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🤖 **AI Travel Agent** | Multi-agent travel assistant powered by LangChain & MCP | Python • LangChain • MCP |
-| 📚 **RAG Chatbot** | Chatbot using Retrieval-Augmented Generation | Python • LangChain • ChromaDB |
-| 🧠 **Mental Health Analysis** | Machine learning analysis and prediction | Python • Scikit-learn |
-| 📊 **Power BI Dashboard** | Interactive business intelligence dashboard | Power BI • SQL |
-| 🔍 **Coming Soon...** | Your next awesome project | 🚀 |
+### LLM & Generative AI
 
--->
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-2563EB?style=flat-square)
 
----
+<br>
 
-# 💻 Tech Stack
+### Machine Learning
 
-### Languages
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<br>
 
-### AI & Machine Learning
+### Development
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🤖 AI Agents
+- 🤖 Building Production-Ready AI Agents
 - 🧠 Large Language Models (LLMs)
-- 🔗 LangChain & MCP
+- 🔗 Model Context Protocol (MCP)
 - 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ AI System Design
+- ⚡ Multi-Agent Systems
+- ☁️ AI System Design
+
+
+<!--
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|----------|-------------|-------|
+| 🤖 AI Travel Agent | Multi-Agent travel assistant | Python • LangChain • MCP |
+| 📚 RAG Chatbot | Document Question Answering | LangChain • ChromaDB |
+| 🧠 Mental Health Analysis | Machine Learning project | Python • Scikit-Learn |
+| 📊 Power BI Dashboard | Business Intelligence Dashboard | Power BI • SQL |
+
+-->
 
 ---
 
 ## 🌍 Languages
 
-- 🇪🇬 Arabic (Native)
-- 🇬🇧 English (Professional Working Proficiency)
+- 🇪🇬 Arabic — Native
+- 🇬🇧 English — Professional Working Proficiency
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=AI-0o0&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com?user=AI-0o0&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=AI-0o0&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true"/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AI-0o0&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://streak-stats.demolab.com?user=AI-0o0&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AI-0o0&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AI-0o0&theme=tokyonight"/>
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
+<div align="center">
+
 [![Abdelrahman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AI-0o0&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ---
+
+## 👀 Profile Views
+
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=AI-0o0&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Amazing Together!
+
+I'm always interested in collaborating on **AI**, **LLMs**, **Agentic AI**, and **Open Source** projects.
+
+📧 **nja75753@gmail.com**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer)
+
