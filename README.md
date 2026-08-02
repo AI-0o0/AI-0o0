@@ -123,14 +123,6 @@ I enjoy designing AI systems, developing autonomous agents, and turning ideas in
 
 ---
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AI-0o0&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
