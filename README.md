@@ -105,19 +105,21 @@ I enjoy designing AI systems, developing autonomous agents, and turning ideas in
 
 ---
 
-## 📊 GitHub Analytics
+
+# 📊 GitHub Stats:
+
+
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=AI-0o0&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true"/>
+![](https://github-readme-stats.shion.dev/api?username=Ai-0o0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=AI-0o0&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AI-0o0&layout=compact&theme=tokyonight&hide_border=true"/>
+![](https://streak-stats.demolab.com/?user=Ai-0o0&theme=tokyonight&hide_border=true)<br/>
 
 </div>
 
