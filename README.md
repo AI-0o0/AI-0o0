@@ -125,16 +125,6 @@ I enjoy designing AI systems, developing autonomous agents, and turning ideas in
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Abdelrahman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AI-0o0&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 👀 Profile Views
 
 <div align="center">
