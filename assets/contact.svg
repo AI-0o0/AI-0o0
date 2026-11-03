@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#0F2347"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="16" fill="url(#bg)" stroke="#1E3A8A" stroke-width="1.5"/>
+  <text x="600" y="62" font-family="monospace" font-size="13" fill="#60A5FA" text-anchor="middle" letter-spacing="3">06 / CONTACT</text>
+  <text x="600" y="132" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#F1F5F9" text-anchor="middle">Let's build</text>
+  <text x="600" y="196" font-family="Georgia, serif" font-size="58" font-weight="700" font-style="italic" fill="#60A5FA" text-anchor="middle">the next thing.</text>
+  <text x="600" y="232" font-family="sans-serif" font-size="17" fill="#94A3B8" text-anchor="middle">Open to AI collaborations, open-source work and internship opportunities.</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210">
+  <g font-family="monospace" font-size="15" fill="#BFDBFE" text-anchor="middle">
+    <rect x="30" y="8" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="120" y="35">Python</text>
+    <rect x="222" y="8" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="312" y="35">SQL</text>
+    <rect x="414" y="8" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="504" y="35">Java</text>
+    <rect x="606" y="8" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="696" y="35">Git</text>
+    <rect x="798" y="8" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="888" y="35">Linux</text>
+    <rect x="990" y="8" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="1080" y="35">Docker</text>
+
+    <rect x="30" y="68" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="120" y="95">PyTorch</text>
+    <rect x="222" y="68" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="312" y="95">scikit-learn</text>
+    <rect x="414" y="68" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="504" y="95">Pandas</text>
+    <rect x="606" y="68" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="696" y="95">NumPy</text>
+    <rect x="798" y="68" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="888" y="95">Matplotlib</text>
+    <rect x="990" y="68" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="1080" y="95">Power BI</text>
+
+    <rect x="30" y="128" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="120" y="155">LangChain</text>
+    <rect x="222" y="128" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="312" y="155">OpenAI</text>
+    <rect x="414" y="128" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="504" y="155">HuggingFace</text>
+    <rect x="606" y="128" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="696" y="155">MCP</text>
+    <rect x="798" y="128" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="888" y="155">FastAPI</text>
+    <rect x="990" y="128" width="180" height="44" rx="8" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+    <text x="1080" y="155">VS Code</text>
+  </g>
+</svg>

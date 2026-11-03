@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#0F2347"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#1E3A8A" opacity="0.5"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="16" fill="url(#bg)" stroke="#1E3A8A" stroke-width="1.5"/>
+  <rect width="1200" height="340" rx="16" fill="url(#dots)"/>
+
+  <!-- top bar -->
+  <rect x="24" y="22" width="30" height="30" rx="7" fill="url(#acc)"/>
+  <text x="39" y="43" font-family="monospace" font-size="15" font-weight="700" fill="#0B1220" text-anchor="middle">A</text>
+  <text x="66" y="43" font-family="monospace" font-size="14" fill="#CBD5E1">abdelrahman-eslam</text>
+  <g font-family="monospace" font-size="13" fill="#94A3B8" letter-spacing="2">
+    <text x="760" y="43">ABOUT</text>
+    <text x="840" y="43">WORK</text>
+    <text x="920" y="43">STACK</text>
+    <text x="1010" y="43">CONTACT</text>
+  </g>
+  <line x1="0" y1="66" x2="1200" y2="66" stroke="#1E3A8A"/>
+
+  <!-- label -->
+  <circle cx="500" cy="112" r="4" fill="#4ADE80"/>
+  <text x="514" y="117" font-family="monospace" font-size="13" fill="#60A5FA" letter-spacing="3">OPEN TO INTERNSHIPS &amp; COLLABS</text>
+
+  <!-- headline -->
+  <text x="600" y="186" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#F1F5F9" text-anchor="middle">Data &amp; AI engineer</text>
+  <text x="600" y="252" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#F1F5F9" text-anchor="middle">for <tspan font-style="italic" fill="#60A5FA">useful things.</tspan></text>
+
+  <text x="600" y="290" font-family="sans-serif" font-size="18" fill="#94A3B8" text-anchor="middle">I build agents, LLM applications and data pipelines, and share the work in public.</text>
+
+  <!-- buttons -->
+  <rect x="418" y="308" width="170" height="36" rx="8" fill="#E2E8F0"/>
+  <text x="503" y="331" font-family="monospace" font-size="13" font-weight="700" fill="#0B1220" text-anchor="middle" letter-spacing="2">VIEW WORK</text>
+  <rect x="612" y="308" width="170" height="36" rx="8" fill="none" stroke="#2563EB" stroke-width="1.5"/>
+  <text x="697" y="331" font-family="monospace" font-size="13" fill="#93C5FD" text-anchor="middle" letter-spacing="2">GET IN TOUCH</text>
+</svg>

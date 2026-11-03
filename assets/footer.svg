@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="14" fill="#0B1220"/>
+  <path d="M0 62 Q300 20 600 62 T1200 62 V120 H0 Z" fill="url(#acc)" opacity="0.35"/>
+  <path d="M0 80 Q300 40 600 80 T1200 80 V120 H0 Z" fill="url(#acc)" opacity="0.5"/>
+  <text x="600" y="50" font-family="monospace" font-size="14" fill="#93C5FD" text-anchor="middle" letter-spacing="3">BUILT IN PUBLIC · 2026</text>
+</svg>

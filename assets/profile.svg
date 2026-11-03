@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 290" width="900" height="290">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="290" rx="14" fill="#0F172A" stroke="#1E3A8A" stroke-width="1.5"/>
+  <rect x="0" y="0" width="6" height="290" rx="3" fill="url(#acc)"/>
+
+  <text x="40" y="54" font-family="monospace" font-size="13" fill="#60A5FA" letter-spacing="3">01 / PROFILE</text>
+  <text x="40" y="106" font-family="sans-serif" font-size="40" font-weight="700" fill="#F1F5F9">Abdelrahman Eslam</text>
+  <text x="40" y="140" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#93C5FD">Useful software, built in public.</text>
+  <line x1="40" y1="162" x2="860" y2="162" stroke="#1E3A8A"/>
+
+  <text x="40" y="200" font-family="monospace" font-size="12" fill="#64748B" letter-spacing="2">ROLE</text>
+  <text x="40" y="224" font-family="sans-serif" font-size="17" fill="#E2E8F0">Data Science &amp; AI student</text>
+  <text x="40" y="262" font-family="monospace" font-size="12" fill="#64748B" letter-spacing="2">SCHOOL</text>
+  <text x="40" y="286" font-family="sans-serif" font-size="17" fill="#E2E8F0">Alexandria University · 2028</text>
+
+  <text x="470" y="200" font-family="monospace" font-size="12" fill="#64748B" letter-spacing="2">FOCUS</text>
+  <text x="470" y="224" font-family="sans-serif" font-size="17" fill="#E2E8F0">Agents · LLMs · RAG · MCP</text>
+  <text x="470" y="262" font-family="monospace" font-size="12" fill="#64748B" letter-spacing="2">STATUS</text>
+  <text x="470" y="286" font-family="sans-serif" font-size="17" fill="#E2E8F0">Open to internships &amp; collabs</text>
+</svg>
